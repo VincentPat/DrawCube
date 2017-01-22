@@ -37,6 +37,6 @@ var top = document.getElementById("top");
 drawCube(100, 100, {left: left, right: right, top: top});
 ```
 ## Final
-![](https://github.com/VincentPat/DrawCube/raw/master/example.png)
+![](./example.png)
 
 完整示例：[DEMO](https://vincentpat.github.io/DrawCube/)
